@@ -3,7 +3,7 @@
 import { ExpandingLine } from "@/animations/lines/ExpandingLine";
 import { BlurIn } from "@/animations/text/BlurIn";
 import { AnimatePresence, motion } from "framer-motion";
-import Image from "next/image";
+//import Image from "next/image";
 import Link from "next/link";
 import { useEffect, useState } from "react";
 
