@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://kingsuks-portfolio-website.vercel.app">
+  <a href="https://kingsuk-nandi.vercel.app/">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/kingsuk-nandi">
@@ -41,18 +41,22 @@ I build full-stack web applications with **React, Next.js, Node.js, and PostgreS
 ## Featured Projects
 
 ### Multi-Document Intelligence System — _Adobe India Hackathon 2025_
+
 RAG pipeline that extracts text and structural metadata (titles, headings, body, captions) from PDFs using PyMuPDF for semantically-aware chunking. Implements persona-conditioned multi-document retrieval — queries phrased as specific personas surface curated, role-relevant sections via sentence-transformer embeddings.
 `Python` · `PyMuPDF` · `Sentence Transformers` · `RAG` · [`Round 1A`](https://github.com/KingsukNandi/Adobe-India-Hackathon-1a) · [`Round 1B`](https://github.com/KingsukNandi/Adobe-India-Hackathon-1b)
 
 ### [Solace](https://project-solace.vercel.app/) — _2nd Runners Up, ICDCIT Hackathon 2.0_
+
 AI-powered mental healthcare platform serving users in distress, with Pino-based activity logging built around user privacy. Hospital finder uses OpenStreetMap to surface healthcare facilities within a 5 km radius.
 `React.js` · `AI Integration` · `OpenStreetMap` · [`Code`](https://github.com/KingsukNandi/Solace.git)
 
 ### [Share-Fare@KIIT](https://share-fare-teal.vercel.app/) — _Campus Ride Sharing_
+
 Full-stack ride sharing platform for verified peer-to-peer rides among KIIT students. REST API endpoints and a relational schema power ride listing, request handling, and matching workflows.
 `Next.js` · `PostgreSQL` · `REST API` · [`Code`](https://github.com/KingsukNandi/share_fare_kiit)
 
 ### [SectionFinder](https://sectionfinder-v2-0.onrender.com/) — _Section Swapping_
+
 Node.js/Express backend with JWT auth and KIIT email verification, exposing REST APIs for users, sessions, and swap requests. Real-time matching connects students with compatible swap intents.
 `Node.js` · `Express.js` · `PostgreSQL` · `JWT` · [`Code`](https://github.com/KingsukNandi/SectionFinder-v2.0)
 
@@ -96,11 +100,11 @@ Node.js/Express backend with JWT auth and KIIT email verification, exposing REST
 
 ## Experience Snapshot
 
-| Where | Role | When |
-|:---|:---|:---|
-| **Antbox** | Software Developer Intern (Remote) | Jan 2026 – Present |
+| Where            | Role                                                          | When                |
+| :--------------- | :------------------------------------------------------------ | :------------------ |
+| **Antbox**       | Software Developer Intern (Remote)                            | Jan 2026 – Present  |
 | **KIITFest 8.0** | Frontend Developer · 17K+ registrations, 2K+ concurrent users | Dec 2024 – Feb 2025 |
-| **IoTLab, KIIT** | Frontend Developer · events platform for 6K+ users | Aug 2024 – Present |
+| **IoTLab, KIIT** | Frontend Developer · events platform for 6K+ users            | Aug 2024 – Present  |
 
 ## GitHub
 
