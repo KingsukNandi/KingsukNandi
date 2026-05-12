@@ -4,10 +4,10 @@ import { motion, useInView } from "framer-motion";
 import React, { useEffect, useRef, useState } from "react";
 
 const stats = [
-  { value: 10, suffix: "+", text: "projects made" },
-  { value: 5, suffix: "+", text: "hackathons attended" },
-  { value: 1, suffix: "x", text: "hackathon winner" },
-  { value: 7, suffix: "+", text: "languages & frameworks used" },
+  { value: 17, suffix: "K+", text: "users impacted" },
+  { value: 6, suffix: "+", text: "live projects shipped" },
+  { value: 2, suffix: "x", text: "hackathon recognitions" },
+  { value: 25, suffix: "+", text: "technologies in the stack" },
 ];
 
 const StatCard = ({

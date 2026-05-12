@@ -14,4 +14,22 @@ body {
 
 html {
   scroll-behavior: smooth;
+  scroll-padding-top: 6rem;
 }
+
+@keyframes pulseLine {
+  0%, 100% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+}
+
+.animate-[pulseLine_2s_ease-in-out_infinite] {
+  background-size: 200% 100%;
+}
+
+.text-accent:hover {
+    @apply block md:text-4xl text-2xl leading-relaxed bg-gradient-to-r from-blue-600 via-green-500 to-indigo-400 text-transparent bg-clip-text;
+  }

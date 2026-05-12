@@ -9,6 +9,7 @@
 !.yarn/plugins
 !.yarn/releases
 !.yarn/versions
+.claude
 
 # testing
 /coverage
@@ -41,3 +42,6 @@ yarn-error.log*
 next-env.d.ts
 
 CMS.txt
+/src/generated/prisma
+
+*.pdf
