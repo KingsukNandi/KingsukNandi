@@ -16,7 +16,7 @@ const roles = [
 
 const meta = [
   "Bhubaneswar, India",
-  "KIIT  CSE  GPA 9.34",
+  "KIIT  CSE  GPA 9.3",
   "ICDCIT Hackathon Finalist",
 ];
 

@@ -27,7 +27,7 @@
 I build full-stack web applications with **React, Next.js, Node.js, and PostgreSQL**, and have hands-on exposure to **Python ML pipelines, GCP-backed data services, RAG retrieval systems, and geospatial analysis**. I'm team-focused and most comfortable when turning messy real-world problems into shipping products — calmly, with the team.
 
 - **Location** — Bhubaneswar, Odisha, India
-- **Education** — B.Tech in CSE, Kalinga Institute of Industrial Technology (Expected May 2027 · GPA 9.34 / 10.00)
+- **Education** — B.Tech in CSE, Kalinga Institute of Industrial Technology (Expected May 2027 · GPA 9.3 / 10.00)
 - **Currently** — Software Developer Intern at **Antbox**, shipping Next.js work and event-driven GCP backends
 - **Open to** — internships, freelance work, and meaningful collaborations
 
@@ -104,7 +104,7 @@ Node.js/Express backend with JWT auth and KIIT email verification, exposing REST
 | :--------------- | :------------------------------------------------------------ | :------------------ |
 | **Antbox**       | Software Developer Intern (Remote)                            | Jan 2026 – Present  |
 | **KIITFest 8.0** | Frontend Developer · 17K+ registrations, 2K+ concurrent users | Dec 2024 – Feb 2025 |
-| **IoTLab, KIIT** | Frontend Developer · events platform for 6K+ users            | Aug 2024 – Present  |
+| **IoTLab, KIIT** | Frontend Developer · events platform for 6K+ users            | Aug 2024 – Apr 2026 |
 
 ## GitHub
 
@@ -120,5 +120,5 @@ Node.js/Express backend with JWT auth and KIIT email verification, exposing REST
 ---
 
 <p align="center">
-  <a href="https://kingsuks-portfolio-website.vercel.app">View my portfolio →</a>
+  <a href="https://kingsuk-nandi.vercel.app">View my portfolio →</a>
 </p>

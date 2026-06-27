@@ -25,7 +25,7 @@ const experiences = [
   {
     title: "IoTLab, KIIT",
     role: "Frontend Developer · Bhubaneswar",
-    time: "August 2024 – Present",
+    time: "August 2024 – April 2026",
     description:
       "Architected an events platform with React/TypeScript, including scheduling and API integrations for 6K+ users. Enhanced Innovance 3.0 (Next.js/TypeScript), driving 150% traffic growth via responsive UI components.",
   },
