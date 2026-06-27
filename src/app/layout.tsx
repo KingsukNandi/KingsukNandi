@@ -80,8 +80,9 @@ export const metadata: Metadata = {
     description:
       "Full-Stack Developer and CS student at KIIT building web apps with React, Next.js, Node.js, and PostgreSQL, plus Python ML and Google Cloud data pipelines.",
   },
-  // After you verify ownership in Google Search Console, paste the token here:
-  // verification: { google: "your-google-site-verification-token" },
+  verification: {
+    google: "wFZxf4aWopSmtuFmHHEcaU9TU7q-q5wAj2i-1qjLOdc",
+  },
 };
 
 export const viewport: Viewport = {
