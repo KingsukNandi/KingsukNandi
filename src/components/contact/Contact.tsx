@@ -36,7 +36,7 @@ const Contact = () => {
       <section>
         <div className="w-fit pb-2 md:pb-4">
           <BlurIn>
-            <h1 className="text-4xl md:text-8xl font-bold">Contact</h1>
+            <h2 className="text-4xl md:text-8xl font-bold">Contact</h2>
             <ExpandingLine />
           </BlurIn>
         </div>

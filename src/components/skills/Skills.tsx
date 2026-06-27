@@ -63,7 +63,7 @@ const Skills = () => {
       <section>
         <div className="w-fit pb-2 md:pb-4">
           <BlurIn>
-            <h1 className="text-4xl md:text-8xl font-bold">Skills</h1>
+            <h2 className="text-4xl md:text-8xl font-bold">Skills</h2>
             <ExpandingLine />
           </BlurIn>
         </div>

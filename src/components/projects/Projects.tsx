@@ -57,7 +57,7 @@ const Projects = () => {
       <section>
         <div className="w-fit pb-2 md:pb-4">
           <BlurIn>
-            <h1 className="text-4xl md:text-8xl font-bold">Projects</h1>
+            <h2 className="text-4xl md:text-8xl font-bold">Projects</h2>
             <ExpandingLine />
           </BlurIn>
         </div>

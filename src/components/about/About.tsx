@@ -10,7 +10,7 @@ const About = () => {
       <div>
         <div className="w-fit pb-4 md:pb-10">
           <BlurIn>
-            <h1 className="text-4xl md:text-8xl font-bold">About Me</h1>
+            <h2 className="text-4xl md:text-8xl font-bold">About Me</h2>
             <ExpandingLine />
           </BlurIn>
         </div>
